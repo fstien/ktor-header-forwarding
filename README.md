@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/fstien/ktor-header-forwarding.svg?color=green&style=popout)
+[![Unit Tests Actions Status](https://github.com/fstien/ktor-header-forwarding/workflows/Unit%20Tests/badge.svg)](https://github.com/{userName}/{repoName}/actions)
+
+
 # Ktor Header Forwarding
 
 Ktor features for forwarding HTTP headers from incoming server requests to outgoing client requests. 
